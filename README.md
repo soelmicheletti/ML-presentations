@@ -14,4 +14,6 @@ Paper: Ruiz F., et al. "SHOPPER: a Probabilitic Model of Consumer Choice with Su
 
 ## Speaker at the IT Data Science Event by the Swiss Study Foundation
 
+[Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/IT%20Data%20Science.pdf)
+
 Non-technical introduction to Machine Learning for the IT Data Science I co-organized for the Swiss Study Foundation. 
