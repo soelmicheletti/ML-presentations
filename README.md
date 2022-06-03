@@ -1,6 +1,13 @@
-# ML-presentations
 
-## SHOPPER: a Probabilitic Model of Consumer Choice with Substitutes and Complements
+## Speaker at the IT Data Science Event by the Swiss Study Foundation [March 2022]
+
+[Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/IT%20Data%20Science.pdf)
+
+Non-technical introduction to Machine Learning for the IT Data Science I co-organized for the Swiss Study Foundation. 
+
+![Alt text](/images/datascience.jpg?raw=true "Title")
+
+## SHOPPER: a Probabilitic Model of Consumer Choice with Substitutes and Complements [May 2021]
 
 [Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/SHOPPER.pdf)
 
@@ -10,7 +17,7 @@ Paper: Ruiz F., et al. "SHOPPER: a Probabilitic Model of Consumer Choice with Su
 
 ![Alt text](/images/shopper.png?raw=true "Title")
 
-## Toward Automated Fact-Checking: Detecting Check-Worthy Factual Claims by ClaimBuster 
+## Toward Automated Fact-Checking: Detecting Check-Worthy Factual Claims by ClaimBuster [November 2019]
 
   [Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/Towards%20Automated%20Fact-Checking.pdf)
 
@@ -18,9 +25,3 @@ Paper: Ruiz F., et al. "SHOPPER: a Probabilitic Model of Consumer Choice with Su
   
 ![Alt text](/images/factchecking.png?raw=true "Title")
   
-
-## Speaker at the IT Data Science Event by the Swiss Study Foundation
-
-[Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/IT%20Data%20Science.pdf)
-
-Non-technical introduction to Machine Learning for the IT Data Science I co-organized for the Swiss Study Foundation. 
