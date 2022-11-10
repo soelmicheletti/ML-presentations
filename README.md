@@ -1,7 +1,7 @@
 
 # List in reverse chronological order
 
-## Lasso Adjustments of Treatment Effect Estimated in Randomized Experiments"
+## Lasso Adjustments of Treatment Effect Estimated in Randomized Experiments" [November 2022]
 
 [Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/LASSO_adjustments.pdf)
 
