@@ -1,5 +1,11 @@
 
-# List in chronological order
+# List in reverse chronological order
+
+## Lasso Adjustments of Treatment Effect Estimated in Randomized Experiments"
+
+[Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/IT%20Data%20Science.pdf)
+
+Paper: Bloniarza A., et al. "Lasso Adjustments of Treatment Effect Estimates in Randomized Experiments" (https://www.pnas.org/doi/epdf/10.1073/pnas.1510506113)
 
 ## Speaker at the IT Data Science Event by the Swiss Study Foundation [March 2022]
 
