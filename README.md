@@ -1,7 +1,14 @@
 
 # List in reverse chronological order
 
-## Lasso Adjustments of Treatment Effect Estimated in Randomized Experiments" [November 2022]
+## Inferring Gene Regulatory Networks Using the Improved Markov Blanket Discovery Algorithm [March 2023]
+
+[Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/MB_GRN.pdf)
+
+Paper: Liu W., et al. "Inferring Gene Regulatory Networks Using the Improved Markov Blanket Discovery Algorithm" (https://pubmed.ncbi.nlm.nih.gov/34495484/)
+
+
+## Lasso Adjustments of Treatment Effect Estimated in Randomized Experiments [November 2022]
 
 [Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/LASSO_adjustments.pdf)
 
