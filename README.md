@@ -7,6 +7,7 @@
 
 Paper: Liu W., et al. "Inferring Gene Regulatory Networks Using the Improved Markov Blanket Discovery Algorithm" (https://pubmed.ncbi.nlm.nih.gov/34495484/)
 
+![Alt text](/images/grn_wallpaper.jpg?raw=true "Title")
 
 ## Lasso Adjustments of Treatment Effect Estimated in Randomized Experiments [November 2022]
 
