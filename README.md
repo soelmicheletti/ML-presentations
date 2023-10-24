@@ -1,6 +1,14 @@
 
 # List in reverse chronological order
 
+## The Discordant Method: a novel approach for Differential Correlation [June 2023]
+
+[Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/DISCORDANT.pdf)
+
+Paper: Siska C., et al. "The Discordant Method: a novel approach for Differential Correlation" ([https://pubmed.ncbi.nlm.nih.gov/34495484/](https://pubmed.ncbi.nlm.nih.gov/26520855/))
+
+![Alt text](/images/bayesian.jpeg?raw=true "Title")
+
 ## Inferring Gene Regulatory Networks Using the Improved Markov Blanket Discovery Algorithm [March 2023]
 
 [Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/MB_GRN.pdf)
