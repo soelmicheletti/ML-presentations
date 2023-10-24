@@ -1,11 +1,19 @@
 
 # List in reverse chronological order
 
+## Comparison of Confound Adjustment Methods in the Construction of Gene Co-expression Networks [August 2023]
+
+[Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/Confound_Adjustments.pdf)
+
+Paper: Cote A., et al. "Comparison of Confound Adjustment Methods in the Construction of Gene Co-expression Networks" ([https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02606-0](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02606-0))
+
+![Alt text](/images/benchmarking.jpg?raw=true "Title")
+
 ## The Discordant Method: a novel approach for Differential Correlation [June 2023]
 
 [Presentation PDF](https://github.com/soelmicheletti/ML-presentations/blob/main/DISCORDANT.pdf)
 
-Paper: Siska C., et al. "The Discordant Method: a novel approach for Differential Correlation" ([https://pubmed.ncbi.nlm.nih.gov/34495484/](https://pubmed.ncbi.nlm.nih.gov/26520855/))
+Paper: Siska C., et al. "The Discordant Method: a novel approach for Differential Correlation" ([[https://pubmed.ncbi.nlm.nih.gov/34495484/](https://pubmed.ncbi.nlm.nih.gov/26520855/)](https://pubmed.ncbi.nlm.nih.gov/26520855/))
 
 ![Alt text](/images/bayesian.jpeg?raw=true "Title")
 
